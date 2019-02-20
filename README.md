@@ -14,6 +14,8 @@
 - credit migration 
 - credit portfolio models 
 
+[Actuarial-statistics-exam](https://www.udemy.com/actuarial-statistics-exam-pct3)
+
 
 # Supplemental notes
 Notes on credit risk modelling resources
