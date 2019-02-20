@@ -1,4 +1,21 @@
-# notes-credit-risk
+# Credit risk
+
+[Credit risk 50 years after the Altman Z-score (2018)](https://www.youtube.com/watch?v=gofa1XAWpPQ)
+- "GM bankruptcy... happiest day of my professinal life" at aroung [45:00](http://www.youtube.com/watch?v=gofa1XAWpPQ&t=45m0s)
+
+[Developing & Deploying Credit Risk Models with Anaconda](https://www.youtube.com/watch?v=1-odLUQK0PQ)
+- Capital One on migration from SAS and providing python libraries to business analysts
+- "Consume, analyse, act" framework for data analysis, ~data engineer, ~data analyst, ~business analyst
+
+[Quantitative Credit Risk Models](https://www.youtube.com/watch?v=0zybmmpyz4Y)
+- scoring models
+- structural (Merton 1974)
+- reduced form (eg time series models)
+- credit migration 
+- credit portfolio models 
+
+
+# Supplemental notes
 Notes on credit risk modelling resources
 
 
