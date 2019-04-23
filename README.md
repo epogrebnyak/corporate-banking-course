@@ -14,6 +14,11 @@
 - credit migration 
 - credit portfolio models 
 
+[Credit Risk Scorecards](https://www.beautiful.ai/deck/-L_21wPfxm_f58LdPevM/Scorecards-PyData-201903)
+- logit regression
+- xgboost
+
+# Statistics notes
 [Actuarial-statistics-exam](https://www.udemy.com/actuarial-statistics-exam-pct3)
 
 
