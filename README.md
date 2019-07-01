@@ -1,4 +1,4 @@
-[pdf](https://gitprint.com/epogrebnyak/notes-credit-risk/blob/master/README.md)
+[![pdf](https://img.shields.io/badge/download-pdf-blue.svg)](https://gitprint.com/epogrebnyak/notes-credit-risk/blob/master/README.md)
 
 "Банковское корпоративное кредитование"
 ======================================
