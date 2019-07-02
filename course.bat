@@ -1,5 +1,5 @@
 @ECHO OFF
 SETLOCAL
-SET FILENAME=README
-pandoc -f markdown -t docx README.md -o %FILENAME%.docx
+SET FILENAME=nes-corporate-banking-lectures.docx
+pandoc -f markdown -t docx README.md -o %FILENAME%
 ENDLOCAL
