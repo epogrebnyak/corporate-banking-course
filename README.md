@@ -1,4 +1,4 @@
-[![pdf](https://img.shields.io/badge/download-pdf-blue.svg)](https://gitprint.com/epogrebnyak/notes-credit-risk/blob/master/README.md)[![git](https://img.shields.io/badge/github-edit-green.svg)](https://github.com/epogrebnyak/corporate-banking-course)
+[![pdf](https://img.shields.io/badge/download-pdf-blue.svg)](https://gitprint.com/epogrebnyak/notes-credit-risk/blob/master/README.md) [![git](https://img.shields.io/badge/github-edit-grey.svg)](https://github.com/epogrebnyak/corporate-banking-course)
 
 
 Банковское корпоративное кредитование
