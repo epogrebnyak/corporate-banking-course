@@ -1,7 +1,7 @@
 # Unsorted links
 
 
-[Managing Risk and Uncertainty: A Strategic Approach (The MIT Press) Kindle Edition](https://www.amazon.com/dp/B018HLXYM4?ref_=k4w_ss_details_rh) 
+[Managing Risk and Uncertainty: A Strategic Approach](https://www.amazon.com/dp/B018HLXYM4?ref_=k4w_ss_details_rh) 
 
 [Credit risk 50 years after the Altman Z-score (2018)](https://www.youtube.com/watch?v=gofa1XAWpPQ)
 - "GM bankruptcy... happiest day of my professinal life" at aroung [45:00](http://www.youtube.com/watch?v=gofa1XAWpPQ&t=45m0s)
