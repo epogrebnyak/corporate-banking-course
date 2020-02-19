@@ -1,0 +1,33 @@
+[Name of discipline] 
+[module, academic year]
+
+[Name of Instructor]
+[instructor’s affiliation]
+[instructor’s email] 
+
+TAs: [Names and contact information]
+				
+
+Course description 
+[This should be a short description of the course from one to three paragraphs. 
+It should include course goals and learning objectives.
+It should also describe what skills and knowledge students obtain during the course.]
+
+Course requirements, grading, and attendance policies
+[This section should include course prerequisites, attendance policy, and detailed grading policy, including percentage for each course item: class participation; midterms, problem sets; quizzes, home assignments, final exam, etc.]
+
+Course contents 
+[This section should contain a list of topics/themes, discussed in the course, information on the format of classes, class materials, etc.]
+
+Description of course methodology
+[You can include a brief description of your teaching methods/techniques and provide examples of interactive practices (case studies and other activities) used in the classroom] 
+
+Course materials 
+Required textbooks and materials
+[This section must include literature sources, preferably those that were published in the last 5 years.] 
+Additional materials
+[Please list here additional sources; web-sites and other information resources such as databases, software, etc.]
+
+Academic integrity policy
+Cheating, plagiarism, and any other violations of academic ethics at NES are not tolerated.
+
