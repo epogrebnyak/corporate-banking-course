@@ -1,19 +1,31 @@
-[Name of discipline] 
+Corporate banking
 [module, academic year]
 
 [Name of Instructor]
-[instructor’s affiliation]
-[instructor’s email] 
+[instructorï¿½s affiliation]
+[instructorï¿½s email] 
 
 TAs: [Names and contact information]
 				
 
 Course description 
+==================
+
+This course shall introduce students to business processes in corporate 
+banking. We shall look at the firm financing decisions and role of bank loans,  
+structure of loan agreements as well as bank prÐ¾cesses that support deal orgination, 
+monitoring and bad loan resolution. The students should be able to judge upon firm 
+creditworthiness, come up with loan termsheet and analyse a portfolio of loans. Addtional 
+knowledge will be gained on bank products and functional roles within corporate financing 
+in a bank. We also expect certain level of proficiency in navigating of bank sector and 
+related statistics upon completion of the course.
+
 [This should be a short description of the course from one to three paragraphs. 
 It should include course goals and learning objectives.
 It should also describe what skills and knowledge students obtain during the course.]
 
 Course requirements, grading, and attendance policies
+
 [This section should include course prerequisites, attendance policy, and detailed grading policy, including percentage for each course item: class participation; midterms, problem sets; quizzes, home assignments, final exam, etc.]
 
 Course contents 
