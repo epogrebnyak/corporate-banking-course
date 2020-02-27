@@ -1,7 +1,7 @@
 Approach:  
 
 - contrast theoretic findings with discussion of live examples
-- use macro and sector-level statistics as well as individual 
+- use macro and sector-level statistics as well as individual banks data
 
 Generic:
 
@@ -11,11 +11,11 @@ Generic:
 
 Core skills:
 
-1. estimate role of corporate bank loans among other firm financing channels
+1. estimate role of bank loans in firm financing and savings transformation
 2. understand inputs, chain of events and controls in corporate lending business process
-3. perform firm financial analisys, related to servicing debt
-4. familiarise with risk management concepts and bank regulations applicable to corporate loans
-5. evaluate bank performance (balance sheet, P&L) in corporate debt financing 
+3. perform firm financial analysis, related to servicing debt
+4. familiarise with risk management concepts and bank regulations 
+5. evaluate bank performance (balance sheet, P&L) in corporate financing business segment
 
 Supplementary skills:
 

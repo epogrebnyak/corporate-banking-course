@@ -1,5 +1,17 @@
-# Unsorted links
+- EU bank transparency
 
+
+- https://www.nes.ru/ma-in-finance-academic-program-2019-2020/?lang=ru
+- https://tools.eba.europa.eu/interactive-tools/2019/powerbi/tr19_visualisation_page.html
+
+
+
+
+# Datasets
+
+- [EU transparency excercise](https://eba.europa.eu/risk-analysis-and-data/eu-wide-transparency-exercise)
+
+# Unsorted links
 
 [Managing Risk and Uncertainty: A Strategic Approach](https://www.amazon.com/dp/B018HLXYM4?ref_=k4w_ss_details_rh) 
 
