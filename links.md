@@ -3,7 +3,7 @@
 
 - https://www.nes.ru/ma-in-finance-academic-program-2019-2020/?lang=ru
 - https://tools.eba.europa.eu/interactive-tools/2019/powerbi/tr19_visualisation_page.html
-
+- https://data.europa.eu/euodp/en/data/dataset/eu-wide-transparency-exercise-results-2018-credit-risk/resource/00b60d25-f32a-4e84-af67-8ff9b7203dfd
 
 
 
