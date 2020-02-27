@@ -4,8 +4,19 @@
 - https://www.nes.ru/ma-in-finance-academic-program-2019-2020/?lang=ru
 - https://tools.eba.europa.eu/interactive-tools/2019/powerbi/tr19_visualisation_page.html
 - https://data.europa.eu/euodp/en/data/dataset/eu-wide-transparency-exercise-results-2018-credit-risk/resource/00b60d25-f32a-4e84-af67-8ff9b7203dfd
-
-
+- https://www.fma.gv.at/en/publications/fmaoenb-guidelines/
+-https://people.math.ethz.ch/~embrecht/ftp/K.pdf
+- https://www.bis.org/bcbs/events/wkshop0303/p03jimesaur.pdf
+- https://www.bofbulletin.fi/en/2019/2/
+- corporate-credit-risk-affected-by-business-cycles-and-industry-factors/
+- https://eba.europa.eu/sites/default/documents/files/document_library/Risk%20Analysis%20and%20Data/EU%20Wide%20Transparency%20Exercise/2019/Transparency%20exercise%20documents/2019_EU-wide_Transparency_exercise_and_RAR_presentation.pdf
+- https://www.hse.ru/data/2011/11/14/1270200082/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B4%D0%B5%D1%84%D0%BE%D0%BB%D1%82%D0%B0.PDF
+- https://www.hse.ru/data/2017/08/23/1117081428/program-1518982504-Gu8ZAbzdI6.pdf
+- https://www.ebsglobal.net/EBS/media/EBS/PDFs/Credit-Risk-Management-Course-Taster.pdf
+- https://www.amazon.com/Microeconometrics-Banking-Methods-Applications-Results/dp/0195340477#reader_0195340477
+- https://tel.archives-ouvertes.fr/tel-00937278/document
+- https://www.bis.org/bcbs/events/wkshop0303/p03jimesaur.pdf
+- https://annualreport.deutsche-bank.com/2017/ar/risk-report/risk-and-capital-management/credit-risk-management/managing-and-mitigation-of-credit-risk.html
 
 # Datasets
 
