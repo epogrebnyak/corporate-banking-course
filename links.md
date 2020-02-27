@@ -1,7 +1,19 @@
-- EU bank transparency
-
-
 - https://www.nes.ru/ma-in-finance-academic-program-2019-2020/?lang=ru
+- https://www.ey.com/Publication/vwLUAssets/ey-measuring-capital-adequacy-supervisory-stresstests-in-a-basel-world/$File/ey-measuring-capital-adequacy-supervisory-stresstests-in-a-basel-world.pdf
+- https://www.cbr.ru/eng/DKP/surveys/ubk/
+- https://www.cbr.ru/publ/Vestnik/ves170804_065-66.pdf
+- https://assets.kpmg/content/dam/kpmg/xx/pdf/2019/11/eba-draft-guidelines-on-loan-origination-and-monitoring.pdf
+
+---
+
+- https://www.bis.org/publ/bcbs129.htm
+- https://mb.cision.com/Public/462/2774353/a4ca4e8669b92c05.pdf
+- EU bank transparency
+- https://www.sas.com/en_us/insights/articles/risk-fraud/understanding-capital-requirements.html
+- https://www.nordea.com/Images/33-305679/Nordea%20Group%20Capital%20and%20Risk%20Management%20Report_2018.pdf
+
+---
+
 - https://tools.eba.europa.eu/interactive-tools/2019/powerbi/tr19_visualisation_page.html
 - https://data.europa.eu/euodp/en/data/dataset/eu-wide-transparency-exercise-results-2018-credit-risk/resource/00b60d25-f32a-4e84-af67-8ff9b7203dfd
 - https://www.fma.gv.at/en/publications/fmaoenb-guidelines/
