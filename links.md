@@ -1,3 +1,20 @@
+https://scholar.google.com/scholar?cluster=3427470327675010861&hl=ru&newwindow=1&as_sdt=0,5
+https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1928.en.pdf
+
+
+---
+
+HSBC Holdings plc Pillar 3 Disclosures at 31 December 2018
+
+https://www.nordea.com/Images/33-305679/Nordea%20Group%20Capital%20and%20Risk%20Management%20Report_2018.pdf
+https://shareholdersandinvestors.bbva.com/wp-content/uploads/2019/03/PilarIII2018_Eng-1.pdf
+
+
+
+
+---
+
+
 - https://www.nes.ru/ma-in-finance-academic-program-2019-2020/?lang=ru
 - https://www.ey.com/Publication/vwLUAssets/ey-measuring-capital-adequacy-supervisory-stresstests-in-a-basel-world/$File/ey-measuring-capital-adequacy-supervisory-stresstests-in-a-basel-world.pdf
 - https://www.cbr.ru/eng/DKP/surveys/ubk/
