@@ -1,5 +1,7 @@
 ## [Are women better loan officers? (2009)](https://voxeu.org/article/are-women-better-loan-officers) by Thorsten Beck, Patrick Behr, Andre Güttler
 
+[PDF](http://siteresources.worldbank.org/INTFR/Resources/Becketal022409.pdf)
+
 - Loans by female borrowers and borrowers screened and monitored by female 
   loan officers are less likely to turn problematic.
   
@@ -15,7 +17,8 @@
 *Tentative conclusion*
 
 - Better performance of female loan officers is explained with 
-  better screening capacities on unobserved borrower characteristics (smell test) and/or better monitoring capacities.
+  better screening capacities on unobserved borrower characteristics (smell test) and/or 
+  better monitoring capacities.
 
 
 
