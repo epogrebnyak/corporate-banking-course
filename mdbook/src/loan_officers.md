@@ -1,4 +1,4 @@
-## [Are women better loan officers? (2009)](https://voxeu.org/article/are-women-better-loan-officers)
+## [Are women better loan officers? (2009)](https://voxeu.org/article/are-women-better-loan-officers) by Thorsten Beck, Patrick Behr, Andre Güttler
 
 - Loans by female borrowers and borrowers screened and monitored by female 
   loan officers are less likely to turn problematic.
