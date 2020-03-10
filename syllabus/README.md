@@ -1,10 +1,6 @@
 [![pdf](https://img.shields.io/badge/download-pdf-blue.svg)](https://gitprint.com/epogrebnyak/notes-credit-risk/blob/master/README.md) [![git](https://img.shields.io/badge/github-edit-lightgrey.svg)](https://github.com/epogrebnyak/corporate-banking-course)
 
 
-- [Course syllabus]()
-- [Cases]()
-
-
 Банковское корпоративное кредитование
 =====================================
 
@@ -90,6 +86,9 @@
 
 - Подходы к отраслевому анализу и моделированию динамики отраслей, секторов, групп предприятий.
 
+## Вопросы для преподавателей
+
+- Разделить наблюдаемые и ненаблюдаемые величины, роль апроксимаций (например, скоринг)
 
 ## Иллюстрации
 
