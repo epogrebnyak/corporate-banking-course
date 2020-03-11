@@ -7,14 +7,13 @@
 
 - Shareholders prefer to assume higher risk than lenders, whereas lenders prefer firms to maximize the probability of repayment.
 
+- Hypothesis:
 
-- `H1a`: Banks stock ownership has a positive influence on debt and debt maturity and a negative effect on debt cost if the monitoring effect is prevalent.
+    - `H1a`: Banks stock ownership has a positive influence on debt and debt maturity and a negative effect on debt cost if the monitoring effect is prevalent.
 
-- `H1b`: Banks stock ownership has a negative influence on debt and debt maturity and a positive effect on debt cost if the expropriation effect is prevalent.
+    - `H1b`: Banks stock ownership has a negative influence on debt and debt maturity and a positive effect on debt cost if the expropriation effect is prevalent.
 
 
 Result:
 
 - Debt maturity increases with bank ownership, whereas the cost of debt decreases with bank ownership.These results are consistent with the predominance of the monitoring effect over the expropriation effect.
-
-
