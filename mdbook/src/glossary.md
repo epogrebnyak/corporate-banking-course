@@ -5,8 +5,7 @@
 
 ---
 
-- Cost of risk, CoR 
-- IFRS 9, МСФО 9
+- IFRS 9, (ru: МСФО 9)
 - DSCR
 - PD
 - EAD
@@ -14,5 +13,6 @@
 
 --- 
 
-- disbursement
-- revolver - an unfunded commitment that the borrower may drawdown, repay and reborrow under
+- Disbursement 
+- Cost of risk, CoR 
+- Revolver - *an unfunded commitment that the borrower may drawdown, repay and reborrow under*

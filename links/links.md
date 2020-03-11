@@ -1,3 +1,8 @@
+https://www.bis.org/publ/bcbs54.pdf
+
+---
+
+
 https://scholar.google.com/scholar?cluster=3427470327675010861&hl=ru&newwindow=1&as_sdt=0,5
 https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1928.en.pdf
 

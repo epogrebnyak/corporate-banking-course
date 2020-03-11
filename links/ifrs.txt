@@ -3,7 +3,6 @@ ifrs
 - IFRS on provisions/impairments
 - Basel on capital adequacy ratios
 
-
 https://www.riksbank.se/globalassets/media/rapporter/ekonomiska-kommentarer/engelska/2018/ifrs-9--the-new-accounting-standard-for-credit-loss-recognition.pdf
 
 https://www.riksbank.se/globalassets/media/rapporter/ekonomiska-kommentarer/engelska/2018/ifrs-9--the-new-accounting-standard-for-credit-loss-recognition.pdf
