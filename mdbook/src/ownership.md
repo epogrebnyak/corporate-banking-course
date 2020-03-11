@@ -1,4 +1,4 @@
-# [Bank ownership, lending relationships and capital structure: Evidence from Spain][esp] (2019) by Carlos Fernández-Méndez and Victor M.González
+## [Bank ownership, lending relationships and capital structure: Evidence from Spain][esp] (2019) by Carlos Fernández-Méndez and Victor M.González
 
 [PDF][esp]
 

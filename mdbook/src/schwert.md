@@ -1,10 +1,12 @@
-# [Does Borrowing from Banks Cost More than Borrowing from the Market? (2019)](https://memento.epfl.ch/public/upload/files/PaperSchwert.pdf) by Michael Schwert
+## [Does Borrowing from Banks Cost More than Borrowing from the Market? (2019)](https://memento.epfl.ch/public/upload/files/PaperSchwert.pdf) by Michael Schwert
 
 [PDF](https://memento.epfl.ch/public/upload/files/PaperSchwert.pdf)
 
 - This  paper  investigates  the  pricing  of  bank  loans  in  a  sample  of  new  loans  to  firmswith  outstanding  bonds.  
 
-- After  accounting  for  seniority,  banks  earn  an  economically large interest rate premium relative to the price of credit risk in the bond market. To establish this result, I use intuition from a reduced-form model of credit risk to show that average  loan  spreads  are  three  times  higher  than  implied  by  bond  spreads  and relative  losses in default. 
+- After  accounting  for  seniority,  banks  earn  an  economically large interest rate premium relative to the price of credit risk in the bond market. 
+
+- To establish this result, I use intuition from a reduced-form model of credit risk to show that average loan spreads are  three  times  higher  than  implied  by  bond  spreads and relative  losses in default.
 
 - To  quantify  the  premium  at  the  loan  level,  I  apply  a structural model to a subsample of secured term loans and estimate an average loanpremium of 240 bps. 
 
