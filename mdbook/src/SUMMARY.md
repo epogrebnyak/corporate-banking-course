@@ -12,7 +12,7 @@
 
 ---- 
 
-- [Types of loans and transmission](./loan_types.md)
+- [Types of loans](./loan_types.md)
 - [Firm credit constraints](./anatomy.md)
 
 ---- 

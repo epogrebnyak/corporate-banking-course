@@ -1,8 +1,8 @@
-[The Determinants of Contract Terms in Bank Revolving Credit Agreements][rpi]
-by Steven Dennis, Debarshi Nandy, Ian G. Sharpe
+# [The Determinants of Contract Terms in Bank Revolving Credit Agreements][rpi] by Steven Dennis, Debarshi Nandy, Ian G. Sharpe
 
 [rpi]: http://homepages.rpi.edu/home/17/wuq2/public_html/dealscan%20paper/nandy%20sharpe_2000jfqa_the%20determinants%20of%20contract%20terms%20in%20bank%20revolving%20credit%20agreements.pdf
 
+[PDF][rpi]
 
 - We find strong interrelationships between contract terms with significant bi-directional relationships between duration and secured status and between the all-in-spread and commitment fees and a unidirectional relationship from both duration and secured status to all-in-spread.
 
