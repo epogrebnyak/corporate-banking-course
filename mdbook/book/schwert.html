@@ -81,7 +81,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div id="sidebar-scrollbox" class="sidebar-scrollbox">
-                <ol class="chapter"><li class="expanded "><a href="loan_officers.html"><strong aria-hidden="true">1.</strong> Loan officers case</a></li><li class="expanded "><a href="nonbank_lending.html"><strong aria-hidden="true">2.</strong> Non-bank lending</a></li><li class="expanded "><a href="schwert.html" class="active"><strong aria-hidden="true">3.</strong> Loan vs bonds costs</a></li><li class="expanded "><a href="contract_terms.html"><strong aria-hidden="true">4.</strong> Contract structure</a></li><li class="expanded "><a href="ownership.html"><strong aria-hidden="true">5.</strong> Banks own firms (Spain)</a></li><li class="spacer"></li><li class="expanded "><a href="fof.html"><strong aria-hidden="true">6.</strong> Flow of funds</a></li><li class="spacer"></li><li class="expanded "><a href="loan_types.html"><strong aria-hidden="true">7.</strong> Types of loans</a></li><li class="expanded "><a href="anatomy.html"><strong aria-hidden="true">8.</strong> Firm credit constraints</a></li><li class="spacer"></li><li class="expanded affix "><a href="framework.html">Study framework</a></li><li class="expanded affix "><a href="notes.html">Notes</a></li><li class="expanded affix "><a href="glossary.html">Glossary</a></li><li class="expanded affix "><a href="wip.html">Todo</a></li></ol>
+                <ol class="chapter"><li class="expanded "><a href="loan_officers.html"><strong aria-hidden="true">1.</strong> Loan officers case</a></li><li class="expanded "><a href="nonbank_lending.html"><strong aria-hidden="true">2.</strong> Non-bank lending</a></li><li class="expanded "><a href="schwert.html" class="active"><strong aria-hidden="true">3.</strong> Loan vs bonds costs</a></li><li class="expanded "><a href="contract_terms.html"><strong aria-hidden="true">4.</strong> Contract structure</a></li><li class="expanded "><a href="ownership.html"><strong aria-hidden="true">5.</strong> Banks own firms (Spain)</a></li><li class="spacer"></li><li class="expanded "><a href="fof.html"><strong aria-hidden="true">6.</strong> Flow of funds (US)</a></li><li class="expanded "><a href="bankstat.html"><strong aria-hidden="true">7.</strong> Bank statistics (Russia)</a></li><li class="expanded "><a href="monetary_survey.html"><strong aria-hidden="true">8.</strong> Monetary survey</a></li><li class="spacer"></li><li class="expanded "><a href="boo.html"><strong aria-hidden="true">9.</strong> Corporate reports (Russia)</a></li><li class="spacer"></li><li class="expanded "><a href="bank_products.html"><strong aria-hidden="true">10.</strong> Bank products universe</a></li><li class="expanded "><a href="loan_types.html"><strong aria-hidden="true">11.</strong> Types of loans</a></li><li class="expanded "><a href="anatomy.html"><strong aria-hidden="true">12.</strong> Firm credit constraints</a></li><li class="spacer"></li><li class="expanded "><a href="bank_reports.html"><strong aria-hidden="true">13.</strong> Bank annual reports</a></li><li class="spacer"></li><li class="expanded "><a href="literature.html"><strong aria-hidden="true">14.</strong> Literature</a></li><li class="spacer"></li><li class="expanded affix "><a href="framework.html">Study framework</a></li><li class="expanded affix "><a href="notes.html">Notes</a></li><li class="expanded affix "><a href="glossary.html">Glossary</a></li><li class="expanded affix "><a href="wip.html">Todo</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -216,6 +216,21 @@
 
         </div>
 
+        
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3001");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload(true); // force reload from server (not from cache)
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
         
 
         

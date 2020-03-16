@@ -6,3 +6,8 @@
 > Bank  and  nonbank  lenders  may  utilize different lending techniques and specialize in lending to different types of borrowers or to finance different types of projects.
 
 ![](./image/nonbank_table_2.png)
+
+
+Addition:
+
+- [What are the private debt strategies?](https://www2.deloitte.com/content/dam/Deloitte/uk/Documents/corporate-finance/deloitte-uk-fa-aldt-q2-2016.pdf), p.26.
