@@ -6,14 +6,13 @@
 
 Things to look for (tentative):
 
-- corporate debt exposure 
 - interest and non-interest revenues
 - business segments (SME, corporate, global)
-- 
 
-
-
-
+- corporate debt exposure 
+- NPL, grades
+- reserves, cost of risk 
+- required capital
 
 
 ### Santander
@@ -33,4 +32,4 @@ Things to look for (tentative):
 ### Non-bank data
 
 - [Eaton Vance](https://www.eatonvance.com/media/34535.pdf)
-- [ALIXPARTNERS MID-MARKET DEBT REPORT (H1 2019)]()
+- [ALIXPARTNERS MID-MARKET DEBT REPORT (H1 2019)](https://www.alixpartners.com/insights-impact/insights/alixpartners-mid-market-debt-report-h1-2019/)

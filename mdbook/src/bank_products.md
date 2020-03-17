@@ -1,6 +1,6 @@
 ## Bank products 
 
-- Bank product = whatever a bank can charge for or attract funds with
+- Bank product = something a bank can charge for or attract funds with
 - Provide capital (fund-based, balance sheet) or service (fee-based, operating expense), or both.
 
 1. Towards bank asset side: 
@@ -12,7 +12,7 @@
 
   - fee: current account
   - fee: payments, cash management 
-  - fee: "wealth management"
+  - fee: asset/wealth management
   - funded (source): deposits
 
 3. Securities-related

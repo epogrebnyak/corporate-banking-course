@@ -1,7 +1,8 @@
 # Notes
 
-Personal intro
---------------
+## Day 1
+
+### Personal intro
 
 - 10 years 10 months work experience in corporate lending (strategy/macro)
 - PhD Econ Russian Academy of Sciences, visiting research London Business School
@@ -10,17 +11,14 @@ Personal intro
 
 My website and contacts: <https://epogrebnyak.github.io/cv>
 
-
-Why corporate banking matters
------------------------------
+### Why corporate banking matters
 
 - large part of flow of funds
 - can do complex deals
 - first to feel the stress, last to turn the lights off
 - rich history of failures
 
-Starting view
--------------
+### Starting view
 
 - firms borrow to finance current assets and fixed investment
 - simple term contract
@@ -28,8 +26,7 @@ Starting view
 - credit risk reflected in reserves (IFRS 9)
 - capital covers expected losses (Basel)
 
-Тезисы
-------
+### Тезисы
 
 1. Реальные потребности бизнеса сложнее, чем финансирование оборотного капитала, инвестиций 
    или выдача гарантий
@@ -43,19 +40,68 @@ Starting view
    число проектов)
 6. Ключевая функции банка - влиять на поведение корпоративного заемщика
 
-Сложности изучения
-------------------
+### Сложности изучения
 
-- необпределенность мотиваций - куда с этим идти
+- неопределенность мотиваций - куда с этим идти
 - специальная терминология и жаргон
 - нет открытых данных по кредитам
 - данные низкочастотные
 - проблема "что делать дальше" с хорошими аналитическими результатами (видео)
 
 
-Цитата
-------
+### Цитата
+
 
 > Даже если вы прогнозируете что-то со 100% точностью, сам прогноз не зарабатывает никаких денег.
 
 Константин Короткий, сооснователь Data Nerds, <https://youtu.be/BujPXw6U84o?t=2819>
+
+
+## Day 2
+
+Plan for today (17/03/202):
+
+### Org: 
+
+- Changes in course - work remote
+- Rehearse syllabus
+- Discuss/present previous homework
+- Discuss final project:
+
+### Homework:
+
+- Flow of funds (Excel)
+- Mini-bank worksheet (Excel)
+- [Reading][imf_stab]
+
+[imf_stab]: https://www.imf.org/en/Publications/GFSR/Issues/2019/10/01/global-financial-stability-report-october-2019#Chapter2
+
+### Statistics:
+
+- [x] Flow of funds (home assignment) - (15, 17) / 198
+- [ ] Links to bank statistics
+
+### Loans: 
+
+- [x] [Reading in IMF report][imf_stab]
+- [ ] Loan types
+- [ ] Covenants
+- [ ] Loan pricing
+- [ ] Datasets
+
+### Companies:
+
+- [x] [`boo` dataset](https://github.com/ru-corporate/boo/blob/master/README.md)
+
+### Banks:
+
+- [x] "Mini-bank": refresher on bank accounting and home assignment.
+- [ ] Future homework (bank analysis cases)
+
+Next:
+
+- [ ] Banks / Basel / bank stats
+- [ ] DCF models (invited)
+
+
+

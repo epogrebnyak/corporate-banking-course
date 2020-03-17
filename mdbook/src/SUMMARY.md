@@ -8,9 +8,12 @@
 
 ---
 
-- [Flow of funds (US)](./fof.md)
+- [Flow of funds](./fof.md)
 - [Bank statistics (Russia)](./bankstat.md)
-- [Monetary survey](./monetary_survey.md)
+
+---
+
+- [Упражнение minibank.xlsx](./minibank.md)
 
 ---
 
@@ -20,7 +23,7 @@
 
 - [Bank products universe](./bank_products.md)
 - [Types of loans](./loan_types.md)
-- [Firm credit constraints](./anatomy.md)
+- [Loan covenants](./covenants.md)
 
 ----
 
@@ -28,11 +31,10 @@
 
 ----
 
-- [Literature](./literature.md)
-
-----
-
+[Final project](./final_project.md)
+[Literature](./literature.md)
 [Study framework](./framework.md)
 [Notes](./notes.md)
 [Glossary](./glossary.md)
+[Datasets](./dataset.md)
 [Todo](./wip.md)
