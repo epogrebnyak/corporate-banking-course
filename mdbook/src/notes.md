@@ -87,7 +87,6 @@ Plan for today (17/03/202):
 - [ ] Loan types
 - [ ] Covenants
 - [ ] Loan pricing
-- [ ] Datasets
 
 ### Companies:
 
@@ -102,6 +101,3 @@ Next:
 
 - [ ] Banks / Basel / bank stats
 - [ ] DCF models (invited)
-
-
-
