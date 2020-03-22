@@ -20,3 +20,9 @@
 ![](https://upload.wikimedia.org/wikipedia/en/a/ac/UnexpectLoss.jpg)
 
 ![](https://image2.slideserve.com/3768354/5-2-credit-var1-l.jpg)
+
+### Loan categories
+
+![](./image/grades.png)
+
+[source](https://www.imes.boj.or.jp/english/publication/mes/2000/me18-2-3.pdf)

@@ -27,7 +27,7 @@
 
 - [Final project](./project/final_project.md)
 - [minibank.xlsx excercise](./project/minibank.md)
-- [Corporate reports (Russia)](./project/boo.md)
+- [Corporate reports](./project/boo.md)
 
 --- 
 
