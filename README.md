@@ -1,3 +1,3 @@
 - [Course syllabus](https://epogrebnyak.github.io/corporate-banking-course/syllabus/index.html)
-- [Cases](https://epogrebnyak.github.io/corporate-banking-course/mdbook/book/index.html)
+- [Cases and supplement](https://epogrebnyak.github.io/corporate-banking-course/mdbook/book/index.html)
 - [Github source](https://github.com/epogrebnyak/corporate-banking-course)
