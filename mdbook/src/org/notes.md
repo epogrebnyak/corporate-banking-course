@@ -14,24 +14,24 @@ My website and contacts: <https://epogrebnyak.github.io/cv>
 ### Why corporate banking matters
 
 - large part of flow of funds
-- can do complex deals
+- banks can do complex deals and banks can restructure
 - first to feel the stress, last to turn the lights off
-- rich history of failures
+- rich history of failures, both firms and banks
 
 ### Starting view
 
 - firms borrow to finance current assets and fixed investment
 - simple term contract
 - banks know loan quality at all stages
-- credit risk reflected in reserves (IFRS 9)
-- capital covers expected losses (Basel)
+- forseen credit risk reflected in reserves (IFRS 9)
+- capital covers unexpected losses (Basel)
 
 ### Тезисы
 
 1. Реальные потребности бизнеса сложнее, чем финансирование оборотного капитала, инвестиций 
    или выдача гарантий
-2. Усложнение регулирования вытесняет мелкие банки и создает видимость занятости и спокойствия 
-   для регуляторов
+2. Усложнение регулирования вытесняет мелкие банки и создает видимость 
+   большой проделанной работы для регулятора
 3. Качественных данных хронически не хватет, банкам нужно принимать решения даже без таких 
    данных
 4. Возможности "управления", в отличие от "анализа" кредитных рисков достаточно ограничены

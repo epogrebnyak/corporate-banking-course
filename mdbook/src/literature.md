@@ -1,9 +1,14 @@
 ## Literature
 
-
 ### From syllabus
 
-...
+Overall review of principal topics can be found in European Banking Authority (EBA) 2019 consultation paper [Draft Guidelines on loan origination and monitoring][dg]
+
+Earlier, but very readable and more detailed source is OeNB/FMA (Austria) [Credit Approval Process and Credit Risk Management guidelines][ca] published in 2004.
+
+[dg]: https://eba.europa.eu/sites/default/documents/files/documents/10180/2831176/3bc64e01-a4d1-4c7e-92d4-1dd84f4b234c/CP%20on%20GLs%20on%20loan%20origination%20and%20monitoring.pdf
+
+[ca]: https://www.fma.gv.at/download.php?d=181
 
 ### Large reports on syndication
 

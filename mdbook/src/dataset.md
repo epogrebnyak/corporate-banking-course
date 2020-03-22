@@ -6,10 +6,12 @@
 - long-running series 
 - classified is 5-10% of exposure
 - break in series (20 to 100 usd mln threshold)
-- example of use of confidential part of data [The Loan Covenant Channel: How Bank Health Transmits to the Real Economy Gabriel by Chodorow-Reich and Antonio Falato](https://scholar.harvard.edu/files/chodorow-reich/files/covenant_channel.pdf)
+- confidential part of data - example of use  [The Loan Covenant Channel: How Bank Health Transmits to the Real Economy Gabriel by Chodorow-Reich and Antonio Falato](https://scholar.harvard.edu/files/chodorow-reich/files/covenant_channel.pdf)
 
 
 EBRD - loan and equity investment dataset
+
+- [To add]
 
 
 

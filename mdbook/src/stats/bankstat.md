@@ -1,4 +1,6 @@
-# Bank statistics (Russia)
+# Bank statistics
+
+## Россия
 
 - [Обзор банковского сектора](https://www.cbr.ru/analytics/bnksyst/)
 - На этой же странице - [top 30 банков](https://www.cbr.ru/Collection/Collection/File/27389/svst01022020.pdf)
@@ -8,3 +10,10 @@
 **Обзор**:
 
 - [Monetary survey](http://www.cbr.ru/statistics/macro_itm/dkfs/)
+
+## European Union
+
+- [ECB Supervisory data](https://www.bankingsupervision.europa.eu/banking/statistics/html/index.en.html), [2019Q3](https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.supervisorybankingstatistics_third_quarter_2019_202001_annex~7eeaa1943a.en.xlsx)
+- [EBA data](https://eba.europa.eu/risk-analysis-and-data/eu-wide-transparency-exercise)
+
+
