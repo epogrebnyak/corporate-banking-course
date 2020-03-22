@@ -4,15 +4,19 @@
 - List of national systematically important banks (Russia)
 
 
-Things to look for (tentative):
+### Things to look for (tentative):
+
+Balance:
+
+- business segments (SME, corporate, global)
+- corporate debt exposure 
+- NPL and quality grades
+- reserves, cost of risk 
+- capital, regulatory capital
+
+Profit and loss:
 
 - interest and non-interest revenues
-- business segments (SME, corporate, global)
-
-- corporate debt exposure 
-- NPL, grades
-- reserves, cost of risk 
-- required capital
 
 
 ### Santander

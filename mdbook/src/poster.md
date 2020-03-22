@@ -18,3 +18,5 @@
 ![](https://slideplayer.com/slide/12689983/76/images/11/The+main+principles+of+Basel+Accord%3A+Expected+Loss+%28EL%29+and+Unexpected+Loss+%28UL%29.jpg)
 
 ![](https://upload.wikimedia.org/wikipedia/en/a/ac/UnexpectLoss.jpg)
+
+![](https://image2.slideserve.com/3768354/5-2-credit-var1-l.jpg)

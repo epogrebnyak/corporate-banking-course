@@ -1,5 +1,12 @@
 # Bank statistics
 
+## Глобальная статистика (BIS)
+
+- [Foreign and dometic exposure, assets, liabilities and equity][bis]
+
+[bis]: https://github.com/epogrebnyak/corporate-banking-course/raw/master/xls/BIS_table-b1-s.xlsx
+
+
 ## Россия
 
 - [Обзор банковского сектора](https://www.cbr.ru/analytics/bnksyst/)
@@ -15,5 +22,3 @@
 
 - [ECB Supervisory data](https://www.bankingsupervision.europa.eu/banking/statistics/html/index.en.html), [2019Q3](https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.supervisorybankingstatistics_third_quarter_2019_202001_annex~7eeaa1943a.en.xlsx)
 - [EBA data](https://eba.europa.eu/risk-analysis-and-data/eu-wide-transparency-exercise)
-
-
