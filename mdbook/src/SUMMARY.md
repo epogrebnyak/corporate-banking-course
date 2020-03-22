@@ -34,4 +34,4 @@
 [Literature](./literature.md)
 [Glossary](./glossary.md)
 [Extra datasets](./dataset.md)
-[Illustartions](./poster.md)
+[Illustrations](./poster.md)

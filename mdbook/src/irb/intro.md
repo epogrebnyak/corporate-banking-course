@@ -64,7 +64,7 @@
 ## Примеры
 
 - простой расчет RWA
-- политика управления рисками Сбербанка (доступные ресурсы > экономический капитал) 
+- [Старетегия управления рисками и капиталом Группы ПАО Сбербанк](https://www.sberbank.com/common/img/uploaded/files/pdf/normative_docs/group_risk-and-capital-strategy_rus.pdf) (доступные ресурсы > экономический капитал)
 - введение в отчет об экономическом капитале (пример - Deutsche Bank)
 - новость о внетрении IRB Райфа (высвободили капитал, хотя им и некритично)
 - отчеты об Basel Pillar 3 для крупных банков (G-SIB)
@@ -90,3 +90,8 @@
 - [How much capital should banks have?](https:/voxeu.org/article/how-much-capital-should-banks-have)
 
 - [Comparability of Basel risk weights in the EU banking sector is questionable ](https://voxeu.org/article/bank-risk-weights-under-basel-are-not-comparable)
+
+
+## Посмотреть
+
+- [Логика расчета экономического капитала](https://ru.coursera.org/lecture/osnovy-risk-menedzhmenta-v-banke/komponient-2-loghika-raschieta-ekonomichieskogho-kapitala-SRc2H)

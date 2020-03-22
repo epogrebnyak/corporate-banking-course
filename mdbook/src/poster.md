@@ -1,4 +1,4 @@
-# Illustartions
+# Illustrations
 
 ### Schematic balance sheet
 
@@ -26,3 +26,10 @@
 ![](./image/grades.png)
 
 [source](https://www.imes.boj.or.jp/english/publication/mes/2000/me18-2-3.pdf)
+
+
+## Cash vs debt service
+
+![](./image/cash.png)
+
+[source](https://mgimo.ru/files/238488/project_financing_13.pdf)
