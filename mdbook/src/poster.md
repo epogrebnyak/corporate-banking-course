@@ -27,7 +27,6 @@
 
 [source](https://www.imes.boj.or.jp/english/publication/mes/2000/me18-2-3.pdf)
 
-
 ## Cash vs debt service
 
 ![](./image/cash.png)

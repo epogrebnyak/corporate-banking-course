@@ -534,7 +534,7 @@ Working paper <a href="https://economics.mit.edu/files/14833">here</a></p>
 <li>valuation at market prices (different view on book value in corporate reports)</li>
 <li><code>closing stock = opening stock + flow + revaluation + other changes (eg. writeoff)</code></li>
 </ul>
-<p><img src="stats/.%5Cimage%5Cwhom.png" alt="" /></p>
+<p><img src="stats/whom.png" alt="" /></p>
 <p>Expected takeaways:</p>
 <ul>
 <li>bank-based (loan) vs market-based (bonds) financial system</li>
@@ -542,9 +542,9 @@ Working paper <a href="https://economics.mit.edu/files/14833">here</a></p>
 <li>more debt instruments (several types of loans, trade credit)</li>
 <li>cautious about:
 <ul>
-<li>nonfinancial sector net position </li>
-<li>equity valuation</li>
-<li>consolidation</li>
+<li>equity shows at market, not book value </li>
+<li>aggregation vs consolidation of exposures</li>
+<li>nonfinancial sector net position (net worth)</li>
 </ul>
 </li>
 <li>discussion on what is missing in FoF statistics and where to find it</li>
@@ -702,6 +702,21 @@ Working paper <a href="https://economics.mit.edu/files/14833">here</a></p>
 
         </div>
 
+        
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3001");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload(true); // force reload from server (not from cache)
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
         
 
         

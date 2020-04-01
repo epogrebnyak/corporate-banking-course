@@ -8,10 +8,7 @@ EC = prctile(Loss,99.95) – EL;
 [source](https://www.mathworks.com/company/newsletters/articles/basel-ii-compliance-and-risk-management-analysis-calculating-economic-capital.html)
 
 
-
-
-
-### Titles:
+### Titles
 
 - [BoE. Modelling credit risk](https://www.bankofengland.co.uk/-/media/boe/files/ccbs/resources/modelling-credit-risk)
 
@@ -29,10 +26,12 @@ EC = prctile(Loss,99.95) – EL;
 
 - [Credit Risk Models: An Overview. Paul Embrechts, Rudiger Frey, Alexander McNeil](https://people.math.ethz.ch/~embrecht/ftp/K.pdf)
 
-### R packages and other software:
+### R packages and other software
 
 - [CreditMetrics by Andreas Wittmann](https://cran.r-project.org/web/packages/CreditMetrics/CreditMetrics.pdf) - few functions
+
 - [CreditRisk+](https://cran.r-project.org/web/packages/crp.CSFP/crp.CSFP.pdf)
+
 - [GCPM](https://cran.r-project.org/web/packages/GCPM/GCPM.pdf)
 
 <!-- 
@@ -53,8 +52,6 @@ https://rstudio-pubs-static.s3.amazonaws.com/84843_56f30bf1ef834d9a81cbf4e952118
 https://www.bis.org/publ/bcbs49.pdf
 
 -->
-
-
 
 
 <!-- 
